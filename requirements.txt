@@ -1,5 +1,10 @@
-pymongo
-pymongo[srv]
-dnspython
-ensure
-pytest
+# pymongo
+# pymongo[srv]
+# dnspython
+# ensure
+# pytest
+
+## for docker
+flask
+numpy
+pandas
